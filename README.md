@@ -1,3 +1,5 @@
+<img src="./assets/linkedin-cover.jpeg" alt="Jigisha Bhatnagar speaking at Bengaluru Tech Week" width="100%">
+
 # Jigisha Bhatnagar
 
 **Program Manager | Partnerships & GTM | Co-founder, Bengaluru Tech Week**
