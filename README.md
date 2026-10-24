@@ -8,7 +8,7 @@ Bengaluru, Karnataka, India
 
 I am a program manager who works across partnerships, GTM and technology ecosystems. As a co-founder of [Bengaluru Tech Week](https://bengalurutechweek.com), I helped turn a citywide idea into a coordinated programme of 100+ independently hosted technology events in 2026.
 
-At Amazon, I work across sales, account management and growth for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement.
+At Amazon, I worked across sales, account management and growth for high-value sellers in India. I acquired and expanded 80+ strategic accounts, added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement.
 
 My strength is bringing structure to complex work: aligning stakeholders, turning goals into operating plans, tracking delivery and keeping teams moving from idea to execution.
 
@@ -40,8 +40,8 @@ Sales | Account Management | Growth
 
 - Acquired and expanded 80+ strategic accounts.
 - Added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS.
-- Manage strategic seller growth workstreams across selection, listings, inventory, advertising and account health.
-- Work across internal teams and external stakeholders to diagnose blockers, prioritise interventions and track outcomes.
+- Managed strategic seller growth workstreams across selection, listings, inventory, advertising and account health.
+- Worked across internal teams and external stakeholders to diagnose blockers, prioritise interventions and track outcomes.
 
 ### International account programmes
 
