@@ -2,7 +2,7 @@
 
 # Jigisha Bhatnagar
 
-**Program Manager | Partnerships & GTM | Co-founder, Bengaluru Tech Week**
+**Program Manager | Technology Ecosystems, Partnerships & GTM | Co-founder, Bengaluru Tech Week**
 
 Bengaluru, Karnataka, India
 
@@ -28,9 +28,9 @@ My strength is bringing structure to complex work: aligning stakeholders, turnin
 
 Co-founder
 
-- Helped build the inaugural citywide technology week around 100+ independently hosted events.
-- Worked across partnerships, host coordination, programme operations and community outreach.
-- Connected founders, engineers, investors, communities and technology companies across Bengaluru.
+- Co-led planning and delivery of a citywide technology programme spanning 100+ independently hosted events, 80+ hosts and 300+ speakers.
+- Coordinated partners, hosts, speakers, volunteers, venues and community stakeholders across concurrent workstreams.
+- Built operating rhythms for programme reviews, listing approvals, partner follow-ups, communications and delivery tracking.
 
 ### Amazon
 
@@ -40,7 +40,8 @@ Sales | Account Management | Growth
 
 - Acquired and expanded 80+ strategic accounts.
 - Added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS.
-- Work across account optimisation, pipeline generation, value-based prospecting and seller growth.
+- Manage strategic seller growth workstreams across selection, listings, inventory, advertising and account health.
+- Work across internal teams and external stakeholders to diagnose blockers, prioritise interventions and track outcomes.
 
 ### International account programmes
 
