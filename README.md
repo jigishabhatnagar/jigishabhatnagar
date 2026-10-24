@@ -1,29 +1,30 @@
 # Jigisha Bhatnagar
 
-**Building Bengaluru Tech Week | Sales, GTM & Partnerships**
+**Program Manager | Partnerships & GTM | Co-founder, Bengaluru Tech Week**
 
 Bengaluru, Karnataka, India
 
-I work at the intersection of sales, partnerships and technology ecosystem building. I am a founding member of [Bengaluru Tech Week](https://bengalurutechweek.com), a citywide platform that brought 100+ independently hosted technology events onto one shared calendar in 2026.
+I am a program manager who works across partnerships, GTM and technology ecosystems. As a co-founder of [Bengaluru Tech Week](https://bengalurutechweek.com), I helped turn a citywide idea into a coordinated programme of 100+ independently hosted technology events in 2026.
 
 At Amazon, I work across sales, account management and growth for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement.
 
-I am also part of the [DevTools Academy](https://www.devtoolsacademy.com) core team, supporting creator-led GTM and partnership operations for AI and developer-tool companies.
+My strength is bringing structure to complex work: aligning stakeholders, turning goals into operating plans, tracking delivery and keeping teams moving from idea to execution.
 
 ## What I work on
 
+- Programme planning and delivery
+- Stakeholder alignment and relationship management
+- Risk, dependency and milestone tracking
 - Technology ecosystem and community programmes
-- Partnerships, stakeholder outreach and relationship management
 - B2B sales, pipeline generation and value-based selling
 - Strategic account growth and marketplace operations
-- Creator research and campaign coordination
 - Cross-functional programme execution
 
 ## Selected work
 
 ### Bengaluru Tech Week
 
-Founding Member
+Co-founder
 
 - Helped build the inaugural citywide technology week around 100+ independently hosted events.
 - Worked across partnerships, host coordination, programme operations and community outreach.
@@ -39,12 +40,13 @@ Sales | Account Management | Growth
 - Added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS.
 - Work across account optimisation, pipeline generation, value-based prospecting and seller growth.
 
-### DevTools Academy
+### International account programmes
 
-Core Team
+WorldRef
 
-- Support creator-led GTM and partnership operations for AI and developer-tool companies.
-- Work on creator research, campaign coordination and relationship management.
+- Managed key accounts across Indonesia, the Philippines, Africa and KSA.
+- Coordinated RFQs, quotations, purchase orders, export documentation and delivery milestones across teams.
+- Worked with business development, research, procurement and operations to keep deals moving.
 
 ## Connect
 
