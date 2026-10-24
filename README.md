@@ -1,47 +1,52 @@
 # Jigisha Bhatnagar
 
-**B2B Sales | SaaS | Growth**  
+**Building Bengaluru Tech Week | Sales, GTM & Partnerships**
+
 Bengaluru, Karnataka, India
 
-I am a results-driven sales professional with 4 years of experience navigating complex B2B sales cycles across enterprise and startup ecosystems. My work spans SaaS growth, strategic account management, pipeline generation, customer retention, customer engagement, CRM, and value-based solution selling.
+I work at the intersection of sales, partnerships and technology ecosystem building. I am a founding member of [Bengaluru Tech Week](https://bengalurutechweek.com), a citywide platform that brought 100+ independently hosted technology events onto one shared calendar in 2026.
 
-At Amazon, I have worked across sales, account management, growth, acquisition, and marketplace selection for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, expanded catalog depth by 10,000+ listings, unblocked 500+ listings, and influenced 90M+ in GMS through consultative partner engagement.
+At Amazon, I work across sales, account management and growth for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement.
 
-## Focus Areas
+I am also part of the [DevTools Academy](https://www.devtoolsacademy.com) core team, supporting creator-led GTM and partnership operations for AI and developer-tool companies.
 
-- B2B sales cycles and SaaS growth
-- Strategic account management and customer retention
-- Inbound and outbound pipeline generation
-- Value-based solution selling and commercial negotiation
-- Marketplace selection, catalog growth, and seller account optimization
-- Global trade analysis, RFQs, quotations, and cross-functional deal execution
+## What I work on
 
-## Experience Highlights
+- Technology ecosystem and community programmes
+- Partnerships, stakeholder outreach and relationship management
+- B2B sales, pipeline generation and value-based selling
+- Strategic account growth and marketplace operations
+- Creator research and campaign coordination
+- Cross-functional programme execution
 
-**Amazon**  
-COE | Sales & Account Management  
+## Selected work
+
+### Bengaluru Tech Week
+
+Founding Member
+
+- Helped build the inaugural citywide technology week around 100+ independently hosted events.
+- Worked across partnerships, host coordination, programme operations and community outreach.
+- Connected founders, engineers, investors, communities and technology companies across Bengaluru.
+
+### Amazon
+
+COE | Sales & Account Management
+
 Sales | Account Management | Growth
 
-- Drive revenue growth and operational excellence for high-value Amazon sellers in India.
-- Work on account optimization, pipeline generation, value-based prospecting, and seller growth.
-- Support marketplace selection, listing quality, inventory optimization, ad campaign optimization, and account health.
+- Acquired and expanded 80+ strategic accounts.
+- Added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS.
+- Work across account optimisation, pipeline generation, value-based prospecting and seller growth.
 
-**WorldRef**  
-Sales Manager | Global Procurement Specialist
+### DevTools Academy
 
-- Managed key accounts across Indonesia, the Philippines, Africa, and KSA.
-- Handled RFQs, competitive quotations, purchase orders, export invoices, Incoterms, and delivery coordination.
-- Collaborated with business development, data research, procurement, and operations teams to support customer acquisition and deal execution.
+Core Team
 
-## Education
-
-- HiveSchool - Launchpad: Sales Strategy and Growth, Sales | GTM | Growth | B2B SaaS
-- Liverpool Business School - MBA, Business Administration and Management
-- Institute of Management Technology, Ghaziabad - PGPM, Business Administration and Management
-- IFI Jaipur - French Language B1
+- Support creator-led GTM and partnership operations for AI and developer-tool companies.
+- Work on creator research, campaign coordination and relationship management.
 
 ## Connect
 
 - Portfolio: [jigishabhatnagar.com](https://jigishabhatnagar.com)
 - LinkedIn: [linkedin.com/in/jigishabhatnagar](https://www.linkedin.com/in/jigishabhatnagar/)
-- Email: [jigisha2306bhatnagar@gmail.com](mailto:jigisha2306bhatnagar@gmail.com)
